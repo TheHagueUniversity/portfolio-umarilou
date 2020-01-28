@@ -194,6 +194,120 @@
   z-index: -15;
 }
 
+/*--------Committee Unitas S.R. 1--------*/
+.header_4{
+  position: absolute;
+  top: 1530px;
+  left:310px;
+  z-index: 100;
+}
+
+.text_5 {
+  margin-top: -45px;
+  text-align: justify;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 27px;
+  font-weight: 10px;
+  padding: 100px;
+  width: 550px;
+  margin-left: 470px;
+  z-index: 100;
+}
+
+.text_6 {
+  margin-top: -230px;
+  text-align: justify;
+  font-family: 'Vidaloka', serif;
+  font-size: 27px;
+  font-weight: 10px;
+  padding: 100px;
+  width: 550px;
+  margin-left: 470px;
+  z-index: 100;
+}
+
+.image_4{
+  position: absolute;
+  top: 1650px;
+  left: 50px;
+  width: 800px;
+  height: 800px;
+  z-index: -50;
+}
+
+.white_block_4 {
+  position: absolute;
+  top: 1630px;
+  left: 550px;
+  width: 600px;
+  height: 280px;
+  background-color:#FFFFFF;
+  z-index: -25;
+}
+
+.line_4 {
+  position: absolute;
+  top: 1875px;
+  left: 470px;
+  width: 630px;
+  height: 50px;
+  background-color:#FFF496;
+  z-index: -15;
+}
+
+/*--------Committee Unitas S.R. 2--------*/
+.header_5{
+  position: absolute;
+  top: 2020px;
+  left:60px;
+  z-index: 100;
+}
+
+.text_7 {
+  margin-top: -45px;
+  text-align: justify;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 27px;
+  font-weight: 10px;
+  padding: 100px;
+  width: 550px;
+  margin-left: 220px;
+  z-index: 100;
+}
+
+.text_8 {
+  margin-top: -230px;
+  text-align: justify;
+  font-family: 'Vidaloka', serif;
+  font-size: 27px;
+  font-weight: 10px;
+  padding: 100px;
+  width: 550px;
+  margin-left: 220px;
+  z-index: 100;
+}
+
+.white_block_5 {
+  position: absolute;
+  top: 2035px;
+  left: 310px;
+  width: 600px;
+  height: 350px;
+  background-color:#FFFFFF;
+  z-index: -25;
+}
+
+.line_5 {
+  position: absolute;
+  top: 2358px;
+  left: 70px;
+  width: 610px;
+  height: 50px;
+  background-color:#FFF496;
+  z-index: -15;
+}
+
+
 /*--------NAVBAR lines--------*/
 #navbar a:hover span{
 position: relative;
