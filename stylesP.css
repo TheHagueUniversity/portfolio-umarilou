@@ -94,7 +94,7 @@
 .image_2{
   position: absolute;
   top: 610px;
-  left: 180px;
+  left: 280px;
   width: 600px;
   height: 332px;
   z-index: -50;
@@ -124,7 +124,7 @@
 .header_3{
   position: absolute;
   top: 1050px;
-  left: 15px;
+  left: 10px;
   z-index: 100;
 }
 .text_2 {
@@ -141,19 +141,19 @@
 
 .image_3{
   position: absolute;
-  top: 1040px;
-  left: 420px;
-  width: 643px;
-  height: 430px;
+  top: 970px;
+  left: 650px;
+  width: 430px;
+  height: 449px;
   z-index: -50;
 }
 
 .white_block_3 {
   position: absolute;
-  top: 1020px;
+  top: 970px;
   left: 350px;
   width: 600px;
-  height: 190px;
+  height: 240px;
   background-color:#FFFFFF;
   z-index: -25;
 }
@@ -168,89 +168,65 @@
   z-index: -15;
 }
 
-/*--------Committee Unitas S.R. 1--------*/
+/*--------Processing--------*/
 .header_4{
   position: absolute;
-  top: 1530px;
-  left:310px;
+  top: 1430px;
+  left:210px;
   z-index: 100;
 }
 
-.text_5 {
-  margin-top: -45px;
-  text-align: justify;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 27px;
-  font-weight: 10px;
-  padding: 100px;
-  width: 550px;
-  margin-left: 470px;
-  z-index: 100;
-}
-
-.text_6 {
-  margin-top: -230px;
+.text_3 {
+  margin-top: 60px;
   text-align: justify;
   font-family: 'Vidaloka', serif;
   font-size: 27px;
   font-weight: 10px;
   padding: 100px;
   width: 550px;
-  margin-left: 470px;
+  margin-left: 367px;
   z-index: 100;
 }
 
 .image_4{
   position: absolute;
-  top: 1650px;
-  left: 50px;
-  width: 800px;
-  height: 800px;
+  top: 1480px;
+  left: 250px;
+  width: 519px;
+  height: 299px;
   z-index: -50;
 }
 
 .white_block_4 {
   position: absolute;
-  top: 1630px;
-  left: 550px;
+  top: 1430px;
+  left: 450px;
   width: 600px;
-  height: 280px;
+  height: 180px;
   background-color:#FFFFFF;
   z-index: -25;
 }
 
 .line_4 {
   position: absolute;
-  top: 1875px;
-  left: 470px;
-  width: 630px;
+  top: 1571px;
+  left: 420px;
+  width: 530px;
   height: 50px;
-  background-color:#FFF496;
+  background-color:#E094D4;
   z-index: -15;
 }
 
-/*--------Committee Unitas S.R. 2--------*/
+/*--------Pictures--------*/
 .header_5{
   position: absolute;
-  top: 2020px;
-  left:60px;
+  top: 1890px;
+  left:40px;
   z-index: 100;
 }
 
-.text_7 {
-  margin-top: -45px;
-  text-align: justify;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 27px;
-  font-weight: 10px;
-  padding: 100px;
-  width: 550px;
-  margin-left: 220px;
-  z-index: 100;
-}
-
-.text_8 {
-  margin-top: -230px;
+.text_4 {
+  margin-top: 140px;
   text-align: justify;
   font-family: 'Vidaloka', serif;
   font-size: 27px;
@@ -261,23 +237,32 @@
   z-index: 100;
 }
 
+.image_5{
+  position: absolute;
+  top: 1800px;
+  left: 750px;
+  width: 431px;
+  height: 463px;
+  z-index: -50;
+}
+
 .white_block_5 {
   position: absolute;
-  top: 2035px;
+  top: 1785px;
   left: 310px;
   width: 600px;
-  height: 350px;
+  height: 320px;
   background-color:#FFFFFF;
   z-index: -25;
 }
 
 .line_5 {
   position: absolute;
-  top: 2358px;
-  left: 70px;
+  top: 2080px;
+  left: 370px;
   width: 610px;
   height: 50px;
-  background-color:#FFF496;
+  background-color:#F469A3;
   z-index: -15;
 }
 
