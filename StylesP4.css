@@ -173,30 +173,6 @@
   padding: 10px;
 }
 
-
-
-
-
-.white_block_2 {
-  position: absolute;
-  top: 465px;
-  left: 200px;
-  width: 700px;
-  height: 255px;
-  background-color:#FFFFFF;
-  z-index: -25;
-}
-
-.line_2 {
-  position: absolute;
-  top: 698px;
-  left: 310px;
-  width: 650px;
-  height: 50px;
-  background-color:#E094D4;
-  z-index: -15;
-}
-
 /*--------processing window--------*/
 .processing{
   margin-left: 40%;
