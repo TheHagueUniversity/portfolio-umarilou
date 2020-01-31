@@ -36,24 +36,25 @@
 /*--------Hi i'm marilou--------*/
 .titles{
   height: 10px;
-  text-align: center;
   font-family: 'Vidaloka', serif;
-  font-size: 150px;
+  font-size: 100px;
   font-weight: 10px;
   margin: 0;
   padding: 0px;
+  width: 700px;
+  text-align: center;
 }
 
 .header{
   position: absolute;
   top: -50px;
-  left: 100px;
+  left: 300px;
   z-index: 100;
 }
 
 .image_1{
   position: absolute;
-  top: 250px;
+  top: 40px;
   left: 450px;
   width: 700px;
   height: 500px;
@@ -61,7 +62,7 @@
 
 .line_1 {
   position: absolute;
-  top: 580px;
+  top: 370px;
   left: 350px;
   width: 850px;
   height: 50px;
@@ -70,7 +71,7 @@
 
 .white_block {
   position: absolute;
-  top: 230px;
+  top: 20px;
   left: 350px;
   width: 730px;
   height: 400px;
@@ -79,7 +80,7 @@
 
 /*--------About me--------*/
 .text {
-  margin-top: 750px;
+  margin-top: 550px;
   text-align: justify;
   font-family: 'Vidaloka', serif;
   font-size: 27px;
@@ -92,7 +93,7 @@
 
 .image_2{
   position: absolute;
-  top: 800px;
+  top: 600px;
   left: 180px;
   width: 600px;
   height: 800px;
@@ -101,7 +102,7 @@
 
 .white_block_2 {
   position: absolute;
-  top: 850px;
+  top: 650px;
   left: 630px;
   width: 600px;
   height: 630px;
@@ -111,7 +112,7 @@
 
 .line_2 {
   position: absolute;
-  top: 1446px;
+  top: 1246px;
   left: 330px;
   width: 850px;
   height: 50px;
