@@ -80,7 +80,20 @@
 
 /*-------- contact info --------*/
 .text {
-  margin-top: 480px;
+  margin-top: 450px;
+  text-align: justify;
+  font-family: 'Vidaloka', serif;
+  color: #000000;
+  font-size: 27px;
+  font-weight: 10px;
+  padding: 100px;
+  width: 550px;
+  margin-left: 420px;
+  z-index: 100;
+}
+
+.text_2 {
+  margin-top: -230px;
   text-align: justify;
   font-family: 'Vidaloka', serif;
   color: #000000;
@@ -115,21 +128,61 @@
   top: 580px;
   left: 450px;
   width: 600px;
-  height: 270px;
+  height: 380px;
   background-color:#FFFFFF;
   z-index: -25;
 }
 
 .line_2 {
   position: absolute;
-  top: 800px;
+  top: 950px;
   left: 360px;
   width: 650px;
   height: 50px;
   background-color:#A3CEF1;
   z-index: -15;
 }
+/*---------- icons ----------*/
+.icon{
+  padding: 10px;
+  align-items: center;
+  color: #3976A7;
+}
+
+/* ----------- social media buttons ----------*/
+.button {
+  position: absolute;
+  margin: 10px;
+  font-size: 30px;
+  font-family: 'Vidaloka', serif;
+  color: #FFFFFF;
+  background: #A3CEF1;
+  text-decoration: none;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.button_position1{
+  top:880px;
+  left: 515px;
+}
+.button_position2{
+  top: 880px;
+  left: 585px;
+}
+
+.button:hover{
+  background: #3976A7;
+}
 /*
+.linkedin{
+  color: #000000;
+}
+
+
 .icons{
   position: absolute;
   color: #000000;
