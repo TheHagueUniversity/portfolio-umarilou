@@ -33,7 +33,7 @@
 
 }
 
-/*--------Hallmark.nl--------*/
+/*--------C'est Marie--------*/
 .titles{
   height: 10px;
   font-family: 'Vidaloka', serif;
@@ -41,7 +41,7 @@
   font-weight: 10px;
   margin: 0;
   padding: 0px;
-  width: 700px;
+  width: 800px;
   text-align: center;
   text-decoration: none;
   color: #000000;
@@ -56,10 +56,10 @@
 
 .image_1{
   position: absolute;
-  top: 40px;
+  top: -160px;
   left: 450px;
   width: 700px;
-  height: 500px;
+  height: 700px;
 }
 
 .line_1 {
@@ -68,7 +68,7 @@
   left: 350px;
   width: 850px;
   height: 50px;
-  background-color:#583791;
+  background-color:#E094D4;
 }
 
 .white_block {
@@ -82,143 +82,52 @@
 
 /*-------- explanation  --------*/
 .text {
-  margin-top: 475px;
+  margin-top: 490px;
   text-align: justify;
   font-family: 'Vidaloka', serif;
   font-size: 27px;
   font-weight: 10px;
   padding: 100px;
   width: 550px;
-  margin-left: 470px;
-  z-index: 100;
-}
-
-.text_2 {
-  margin-top: -60px;
-  text-align: justify;
-  font-family: 'Vidaloka', serif;
-  font-size: 27px;
-  font-weight: 10px;
-  padding: 100px;
-  width: 550px;
-  margin-left: 67px;
-  z-index: 100;
-}
-
-.text_3 {
-  margin-top: -100px;
-  text-align: justify;
-  font-family: 'Vidaloka', serif;
-  font-size: 27px;
-  font-weight: 10px;
-  padding: 100px;
-  width: 550px;
-  margin-left: 447px;
+  margin-left: 120px;
   z-index: 100;
 }
 
 .image_2{
   position: absolute;
-  top: 700px;
-  left: 180px;
-  width: 600px;
-  height: 332px;
-  z-index: -50;
-}
-
-.image_3{
-  position: absolute;
-  top: 1095px;
-  left: 650px;
-  width: 400px;
-  height: 340px;
-  z-index: -50;
-}
-
-.image_4{
-  position: absolute;
-  top: 1480px;
-  left: 250px;
-  width: 519px;
-  height: 299px;
+  top: 600px;
+  left: 70px;
+  width: 800px;
+  height: 600px;
   z-index: -50;
 }
 
 .white_block_2 {
   position: absolute;
-  top: 600px;
-  left: 550px;
-  width: 600px;
-  height: 320px;
-  background-color:#FFFFFF;
-  z-index: -25;
-}
-
-.white_block_3 {
-  position: absolute;
-  top: 1100px;
-  left: 250px;
-  width: 500px;
+  top: 465px;
+  left: 200px;
+  width: 700px;
   height: 255px;
-  background-color:#FFFFFF;
-  z-index: -25;
-}
-
-.white_block_4 {
-  position: absolute;
-  top: 1470px;
-  left: 530px;
-  width: 600px;
-  height: 210px;
   background-color:#FFFFFF;
   z-index: -25;
 }
 
 .line_2 {
   position: absolute;
-  top: 900px;
-  left: 360px;
+  top: 698px;
+  left: 310px;
   width: 650px;
   height: 50px;
-  background-color:#E3DAFF;
+  background-color:#E094D4;
   z-index: -15;
 }
 
-.line_3 {
-  position: absolute;
-  top: 1342px;
-  left: 270px;
-  width: 570px;
-  height: 50px;
-  background-color:#E3DAFF;
-  z-index: -15;
+/*--------processing window--------*/
+.processing{
+  margin-left: 40%;
+  margin-top: -80px;
 }
 
-.line_4 {
-  position: absolute;
-  top: 1651px;
-  left: 420px;
-  width: 530px;
-  height: 50px;
-  background-color:#E3DAFF;
-  z-index: -15;
-}
-
-.button {
-  margin-left: 800px;
-  font-size: 30px;
-  font-family: 'Vidaloka', serif;
-  color: #000000;
-  background: #E3DAFF;
-  text-decoration: none;
-  padding: 25px;
-  border-radius: 20px;
-  display: inline-block;
-}
-
-.button:hover{
-  background: #7261A3;
-}
 
 
 /*--------NAVBAR lines--------*/
@@ -227,7 +136,7 @@ position: relative;
 z-index: 550;
 }
 
-#navbar a:hover .line_2{
+a:hover .line_2{
   position: relative;
   top: -10px;
   left: 10px;
