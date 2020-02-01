@@ -147,6 +147,57 @@
   z-index: -15;
 }
 
+/*---------High school Maerlant lyceum ------*/
+
+.header_3{
+  position: absolute;
+  top: 1200px;
+  left: 225px;
+  z-index: 100;
+  width: 1000px;
+  text-align: left;
+}
+
+.text_3 {
+  margin-top: -30px;
+  text-align: justify;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 27px;
+  font-weight: 10px;
+  padding: 100px;
+  width: 600px;
+  margin-left: 115px;
+  z-index: 100;
+}
+
+.line_3 {
+  position: absolute;
+  top: 1300px;
+  left: 250px;
+  width: 500px;
+  height: 30px;
+  background-color:#93E5AB;
+  z-index: -15;
+}
+
+.line_4 {
+  position: absolute;
+  top: 1453px;
+  left: 250px;
+  width: 500px;
+  height: 30px;
+  background-color:#93E5AB;
+  z-index: -15;
+}
+.line_5 {
+  position: absolute;
+  top: 1604px;
+  left: 250px;
+  width: 500px;
+  height: 30px;
+  background-color:#93E5AB;
+  z-index: -15;
+}
 
 /*--------NAVBAR lines--------*/
 #navbar a:hover span{
