@@ -33,6 +33,15 @@
 
 }
 
+.image_navbar{
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  margin-left: 1142px;
+  margin-top: -470px;
+  z-index: 600;
+}
+
 /*--------Hallmark.nl--------*/
 .titles{
   height: 10px;

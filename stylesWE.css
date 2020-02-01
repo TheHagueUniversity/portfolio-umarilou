@@ -33,6 +33,15 @@
 
 }
 
+.image_navbar{
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  margin-left: 1142px;
+  margin-top: -495px;
+  z-index: 600;
+}
+
 /*--------WORK EXPERIENCE--------*/
 .titles{
   height: 10px;
