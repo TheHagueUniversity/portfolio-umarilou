@@ -173,6 +173,10 @@
   top: 880px;
   left: 585px;
 }
+.button_position3{
+  top: 880px;
+  left: 655px;
+}
 
 .button:hover{
   background: #3976A7;
