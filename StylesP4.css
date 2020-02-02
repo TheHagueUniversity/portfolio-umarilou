@@ -1,5 +1,4 @@
 /*--------NAVBAR--------*/
-
 #navbar{
   overflow: hidden;
   background-color: none;
@@ -18,7 +17,6 @@
   height: 60px;
   background-color:#FFFFFF;
   z-index: 500;
-
 }
 
 #navbar a {
@@ -30,7 +28,6 @@
   font-size: 25px;
   padding: 20px;
   text-decoration: none;
-
 }
 
 .image_navbar{
@@ -90,18 +87,6 @@
 }
 
 /*-------- explanation  --------*/
-.text {
-  margin-top: 490px;
-  text-align: justify;
-  font-family: 'Vidaloka', serif;
-  font-size: 27px;
-  font-weight: 10px;
-  padding: 100px;
-  width: 550px;
-  margin-left: 120px;
-  z-index: 100;
-}
-
 .image_2{
   position: absolute;
   top: 600px;
@@ -182,14 +167,6 @@
   padding: 10px;
 }
 
-/*--------processing window--------*/
-.processing{
-  margin-left: 40%;
-  margin-top: -80px;
-}
-
-
-
 /*--------NAVBAR lines--------*/
 #navbar a:hover span{
 position: relative;
@@ -220,22 +197,3 @@ a:hover .line_2{
 .purple{
   background-color: #E3DAFF;
 }
-
-/* ------Icons------
-.social-icons{
-    right: 60px;
-    bottom: 80px;
-    position: absolute;
-}
-.social-icons{
-    margin-top: 15px;
-    text-align: center;
-}
-.social-icons{
-    color: rgb(250, 242, 173);
-    padding: 6px;
-    display: block;
-}
-
-Montserrat
-*/

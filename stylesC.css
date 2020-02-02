@@ -1,5 +1,4 @@
 /*--------NAVBAR--------*/
-
 #navbar{
   overflow: hidden;
   background-color: none;
@@ -18,7 +17,6 @@
   height: 60px;
   background-color:#FFFFFF;
   z-index: 500;
-
 }
 
 #navbar a {
@@ -30,7 +28,6 @@
   font-size: 25px;
   padding: 20px;
   text-decoration: none;
-
 }
 
 .image_navbar{
@@ -123,15 +120,6 @@
   z-index: -50;
 }
 
-.image_3{
-  position: absolute;
-  top: 770px;
-  left: 650px;
-  width: 30px;
-  height: 30px;
-  z-index: 700;
-}
-
 .white_block_2 {
   position: absolute;
   top: 580px;
@@ -176,36 +164,22 @@
 
 .button_position1{
   top:880px;
-  left: 515px;
+  left: 525px;
 }
+
 .button_position2{
   top: 880px;
-  left: 585px;
+  left: 595px;
 }
+
 .button_position3{
   top: 880px;
-  left: 655px;
+  left: 665px;
 }
 
 .button:hover{
   background: #3976A7;
 }
-/*
-.linkedin{
-  color: #000000;
-}
-
-
-.icons{
-  position: absolute;
-  color: #000000;
-  left: 500px;
-  top: 730px;
-  width: 40px;
-  height: 40px;
-
-}*/
-
 
 /*--------NAVBAR lines--------*/
 #navbar a:hover span{
@@ -237,22 +211,3 @@ z-index: 550;
 .purple{
   background-color: #E3DAFF;
 }
-
-/* ------Icons------
-.social-icons{
-    right: 60px;
-    bottom: 80px;
-    position: absolute;
-}
-.social-icons{
-    margin-top: 15px;
-    text-align: center;
-}
-.social-icons{
-    color: rgb(250, 242, 173);
-    padding: 6px;
-    display: block;
-}
-
-Montserrat
-*/

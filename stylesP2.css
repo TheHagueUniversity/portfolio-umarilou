@@ -1,5 +1,4 @@
 /*--------NAVBAR--------*/
-
 #navbar{
   overflow: hidden;
   background-color: none;
@@ -18,7 +17,6 @@
   height: 60px;
   background-color:#FFFFFF;
   z-index: 500;
-
 }
 
 #navbar a {
@@ -30,7 +28,6 @@
   font-size: 25px;
   padding: 20px;
   text-decoration: none;
-
 }
 
 .image_navbar{
@@ -38,7 +35,7 @@
   width: 50px;
   height: 50px;
   margin-left: 1142px;
-  margin-top: -570px;
+  margin-top: -640px;
   z-index: 600;
 }
 
@@ -82,16 +79,16 @@
 
 .white_block {
   position: absolute;
-  top: 20px;
+  top: 0px;
   left: 350px;
   width: 730px;
-  height: 400px;
+  height: 420px;
   background-color:#FFFFFF;
 }
 
 /*-------- explanation  --------*/
 .text {
-  margin-top: 575px;
+  margin-top: 645px;
   text-align: justify;
   font-family: 'Vidaloka', serif;
   font-size: 27px;
@@ -111,109 +108,25 @@
   z-index: -50;
 }
 
-.image_3{
-  position: absolute;
-  top: 1195px;
-  left: 90px;
-  width: 350px;
-  height: 350px;
-  z-index: -50;
-}
-
-.image_4{
-  position: absolute;
-  top: 1195px;
-  left: 460px;
-  width: 350px;
-  height: 350px;
-  z-index: -50;
-}
-
-.image_5{
-  position: absolute;
-  top: 1195px;
-  left: 830px;
-  width: 350px;
-  height: 350px;
-  z-index: -50;
-}
-
-.image_6{
-  position: absolute;
-  top: 1565px;
-  left: 90px;
-  width: 350px;
-  height: 350px;
-  z-index: -50;
-}
-
-.image_7{
-  position: absolute;
-  top: 1565px;
-  left: 460px;
-  width: 350px;
-  height: 350px;
-  z-index: -50;
-}
-
-.image_8{
-  position: absolute;
-  top: 1565px;
-  left: 830px;
-  width: 350px;
-  height: 350px;
-  z-index: -50;
-}
-
-.image_9{
-  position: absolute;
-  top: 1935px;
-  left: 90px;
-  width: 350px;
-  height: 350px;
-  z-index: -50;
-}
-
-.image_10{
-  position: absolute;
-  top: 1935px;
-  left: 460px;
-  width: 350px;
-  height: 350px;
-  z-index: -50;
-}
-
-.image_11{
-  position: absolute;
-  top: 1935px;
-  left: 830px;
-  width: 350px;
-  height: 350px;
-  z-index: -50;
-}
-
 .white_block_2 {
   position: absolute;
-  top: 700px;
+  top: 770px;
   left: 100px;
   width: 600px;
-  height: 320px;
+  height: 280px;
   background-color:#FFFFFF;
   z-index: -25;
 }
 
 .line_2 {
   position: absolute;
-  top: 1000px;
-  left: 260px;
+  top: 1005px;
+  left: 150px;
   width: 650px;
   height: 50px;
   background-color:#E3DAFF;
   z-index: -15;
 }
-
-
-
 
 /*--------NAVBAR lines--------*/
 #navbar a:hover span{
@@ -245,22 +158,3 @@ a:hover .line_2{
 .purple{
   background-color: #E3DAFF;
 }
-
-/* ------Icons------
-.social-icons{
-    right: 60px;
-    bottom: 80px;
-    position: absolute;
-}
-.social-icons{
-    margin-top: 15px;
-    text-align: center;
-}
-.social-icons{
-    color: rgb(250, 242, 173);
-    padding: 6px;
-    display: block;
-}
-
-Montserrat
-*/

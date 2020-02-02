@@ -18,7 +18,6 @@
   height: 60px;
   background-color:#FFFFFF;
   z-index: 500;
-
 }
 
 #navbar a {
@@ -30,7 +29,6 @@
   font-size: 25px;
   padding: 20px;
   text-decoration: none;
-
 }
 
 .image_navbar{
@@ -86,6 +84,7 @@
   height: 400px;
   background-color:#FFFFFF;
 }
+
 /*--------UXD --------*/
 .titles_2{
   height: 10px;
@@ -103,6 +102,7 @@
   left: 425px;
   z-index: 100;
 }
+
 .text {
   margin-top: -230px;
   text-align: justify;
@@ -156,9 +156,8 @@
   z-index: -15;
 }
 
-/*---------High school Maerlant lyceum ------*/
-
-.header_3{
+/*---------Previous education------*/
+.header_3 {
   position: absolute;
   top: 1200px;
   left: 225px;
@@ -238,20 +237,3 @@ z-index: 550;
 .purple{
   background-color: #E3DAFF;
 }
-
-/* ------Icons------
-.social-icons{
-    right: 60px;
-    bottom: 80px;
-    position: absolute;
-}
-.social-icons{
-    margin-top: 15px;
-    text-align: center;
-}
-.social-icons{
-    color: rgb(250, 242, 173);
-    padding: 6px;
-    display: block;
-}
-*/
